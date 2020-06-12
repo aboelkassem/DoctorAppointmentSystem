@@ -1,0 +1,10 @@
+﻿  DoctorAppointment.cpp
+C:\Users\Mohamed\source\repos\DoctorAppointment\DoctorAppointment\DoctorAppointment.cpp(9,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Mohamed\source\repos\DoctorAppointment\DoctorAppointment\Patient.h(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Mohamed\source\repos\DoctorAppointment\DoctorAppointment\Patient.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Mohamed\source\repos\DoctorAppointment\DoctorAppointment\DoctorAppointment.cpp(10,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Mohamed\source\repos\DoctorAppointment\DoctorAppointment\Message.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Mohamed\source\repos\DoctorAppointment\DoctorAppointment\DoctorAppointment.cpp(11,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Mohamed\source\repos\DoctorAppointment\DoctorAppointment\DoctorAppointment.cpp(12,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Mohamed\source\repos\DoctorAppointment\DoctorAppointment\DoctorAppointment.cpp(170,39): warning C4101: 'choice3': unreferenced local variable
+  DoctorAppointment.vcxproj -> C:\Users\Mohamed\source\repos\DoctorAppointment\Debug\DoctorAppointment.exe
